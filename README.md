@@ -3,7 +3,7 @@
 [![LeetCode user upupming](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fupupming&logo=leetcode&logoColor=yellow)](https://leetcode.com/upupming/)
 [![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-@upupming-blue.svg?style=flat-square&logo=Juejin)](https://juejin.cn/user/2858385964539352/posts)
 [![AcWing](https://img.shields.io/badge/AcWing-@YimingLi-brightgreen.svg?style=flat-square&logo=Juejin)](https://www.acwing.com/user/myspace/index/YimingLi/)
-[![WeChat](https://img.shields.io/badge/WeChat-yimingli--cs-brightgreen.svg?style=flat-square&logo=Juejin)](https://www.acwing.com/user/myspace/index/YimingLi/)
+[![WeChat](https://img.shields.io/badge/WeChat-yimingli--cs-brightgreen.svg?style=flat-square&logo=Juejin)](wechat_qr_code.jpg?raw=true)
 
 ### Hi there 👋
 
