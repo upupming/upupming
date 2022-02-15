@@ -12,6 +12,7 @@ I'm upupming (Yiming Li).
 - 👨‍🎓 Graduate student at Zhejiang University
 - 🍒 Love [front-end development](https://github.com/upupming/frontend-learning-map), open source & competitive programming
 - 🍉 Working on [vs-picgo](https://github.com/PicGo/vs-picgo/) currently
+- 🧐 Focus on bundling tools (Esbuild, Vite, etc.), front-end frameworks and server-side rendering
 - 🍋 I am actively learning [algorithm](https://github.com/upupming/algorithm)
 
 More details on [upupming.site](https://upupming.site/).
